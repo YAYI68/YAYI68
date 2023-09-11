@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yayi Muhammed,
+### Hi there 👋 I'm Yayi Abiodun,
 ## A Full-Stack Software Engineer with over 3 years of experience building modern with  powerful tools and frameworks including React.js, Next.js, Django, Node.js, and Express,
 
 <!--
