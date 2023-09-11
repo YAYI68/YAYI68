@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Yayi Muhammed a Full-Stack Software Engineer skilled in REACT, NEXTJS,DJANGO,NODE,EXPRESS,GRAPHQL,REACT NATIVE
 
 <!--
 **YAYI68/YAYI68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
