@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Yayi Abiodun,
-## A Full-Stack Software Engineer  experience in  building modern web and mobile apps with frameworks including React.js, Next.js, Django, Node.js,Firebase,Nest js and Express,
+## A Full-Stack Software Engineer  experienced in  building modern web and mobile apps with frameworks including React.js, Next.js, Django, Node.js,Firebase,Nest js and Express,
 
 <!--
 **YAYI68/YAYI68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
